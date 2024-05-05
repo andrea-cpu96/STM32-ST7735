@@ -1,0 +1,1 @@
+This folder contains an example of sd card image reading and display based on stm32f030cct6 microcontroller. 
